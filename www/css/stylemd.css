@@ -1,0 +1,352 @@
+a {
+    color: black;
+    
+}
+
+.km-filter-md-header {
+    word-spacing: 15px;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.help {
+    color: silver;
+}
+
+.km-filter-md-header-head-3-btn {
+    word-spacing: 3px;
+    border-radius: 50px;
+}
+
+
+.km-md-container-img-container-text {
+    margin-top: -50%;
+    text-align: center;
+    font-family: cursive;
+    margin-bottom: 45%;
+}
+
+.km-filter-md-container-img-container-text-span {
+    color: silver;
+    line-height: 10px;
+}
+
+.km-filter-md-container-img-container-text-btn {
+    border-radius: 50px;
+    margin-top: 2%
+}
+
+.km-filter-md-container {
+    color: silver;
+    margin-bottom: 7%;
+}
+
+.km-filter-md-container-img2 {
+    margin-left: -10px;
+}
+
+.km-filter-md-container-text2 {
+    font-family: cursive;
+    margin-bottom: 45%;
+}
+
+.km-filter-md-container-text2-span3 {
+    color: silver;
+}
+
+.km-filter-md-container-text2-btn-2 {
+    border-radius: 50px;
+    margin-top: 40px;  
+}
+
+.km-filter-md-container-text2-btn {
+    border-radius: 50px;
+}
+
+.km-filter-md-container-text2-a1 {
+    margin-left: 20px;
+}
+
+.km-filter-md-container-2-row-text-3 {
+    color: silver;
+    padding-left: 13%;
+}
+
+.km-filter-md-container-2-row-text-3-span-3 {
+    color: black;
+}
+
+.km-filter-md-container-2-container-text-3-partners {
+    margin-top: 50px; 
+}
+
+.km-filter-md-container-2-container-img-3 {
+    margin-bottom: 5%;
+}
+
+.km-filter-md-container-3 {
+    background-color: #F5F5F8;
+    margin-top: 118%;
+}
+
+.km-filter-md-container-3-container-text-4-beatiful {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.km-filter-md-container-3-container-text-4-beatiful-line {
+    border-top: 2px solid cornflowerblue;
+    width: 2%;
+    margin-left: 49%;
+    margin-top: 20px;
+}
+
+.km-filter-md-container-3-container-text-4-div-5 {
+    text-align: center;
+}
+
+.km-filter-md-container-3-container-img-4 {
+    margin-left: -5px;
+}
+
+.km-filter-md-container-3-row-1-div-6 {
+    text-align: center;
+    margin-top: 15%;
+    color: silver;
+}
+
+.km-filter-md-container-3-row-1-div-6-span-1 {
+    color: black;
+}
+
+.km-filter-md-container-3-row-1-rows-2 {
+    text-align: center;
+}
+
+.km-filter-md-container-3-row-1-rows-2-input {
+    margin-top: 50px;
+    width: 300px;
+    height: 41px;
+    border-radius: 50px;
+    border-bottom-color: silver;
+    border-right-color: silver;
+}
+
+.km-filter-md-container-3-row-1-rows-2-btn {
+    margin-top: -19px;
+    margin-left: 91px;
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+
+.km-filter-md-container-3-row-1-button {
+    width: 170px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+.km-filter-md-container-3-row-1-button-fa {
+    margin-left: -120px;
+    color: white;
+    margin-top: 8px;
+}
+
+.km-filter-md-container-3-row-1-button-div-9 {
+    margin-left: 30px;
+    margin-top: -34px;
+    color: white;
+}
+
+.km-filter-md-container-3-row-1-rows-2-span-3 {
+    color: silver;
+    font-size: 12px;
+}
+
+.km-filter-md-container-4 {
+    margin-top: 150px;
+}
+
+.carousel-inner {
+    padding-left: 40%;
+}
+
+.container-text-5 {
+    margin-top: 50px;
+    text-align: center;
+    padding: 0% 20% 0% 20%;
+}
+
+.km-filter-md-container-4-container-text-5-div-10-text-1 {
+    margin-bottom: 50px;
+}
+
+.km-filter-md-container-4-container-text-5-div-10-text-2 {
+    color: silver;
+    font-weight: bolder;
+    margin-bottom: 50px;
+}
+
+.km-filter-md-container-4-container-text-5-div-10-text-3 {
+    color: #FF8000;
+    margin-bottom: 100px;
+}
+
+.km-filter-md-container-row {
+    margin-top: 15%;
+}
+
+.km-filter-md-container-5-container-text-6 {
+    padding-left: 10%;
+}
+
+.km-filter-md-container-5-container-text-6-div-11 {
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+
+.km-filter-md-container-5-container-text-6-div-12-button-2 {
+    border: 2px solid silver;
+    border-radius: 50px;
+    width: 188px;
+}
+
+.km-filter-md-container-5-container-text-6-div-12-button-3-btn-default {
+    border-radius: 50px;
+}
+
+.km-filter-md-container-5-container-text-6-div-12-button-3 {
+    margin-left: 100px;
+    margin-top: -36px;
+    margin-bottom: 10%;
+}
+
+.km-filter-md-container-5-container-text-6-div-13 {
+    margin-bottom: 10%;
+    color: silver;
+}
+
+.km-filter-md-container-5-container-text-6-div-14 {
+    color: silver;
+}
+
+.km-filter-md-container-5-img-6 {
+    padding-right: 7%;
+    margin-bottom: 100px;
+}
+
+.km-filter-md-container-6 {
+    text-align: center;
+}
+
+.km-filter-md-container-6-div-15 {
+    margin-top: 50px;
+}
+
+.km-filter-md-container-6-div-15-form {
+    width: 350px;
+    border-radius: 50px;
+    border-bottom-color: silver;
+    border-right-color: silver;
+    height: 35px;
+    margin-bottom: 5%;
+}
+
+.km-filter-md-container-6-div-15-btn-success {
+    margin-left: -95px;
+    border-radius: 50px;
+}
+
+.km-filter-md-container-6-div-15-row-3 {
+    color: silver;
+    margin-bottom: 15%;
+}
+
+.km-filter-md-container-7-text-8 {
+    padding-left: 7%;
+    width: 27%
+}
+
+.km-filter-md-container-7-text-8-div-17 {
+    color: silver;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.km-filter-md-container-7-text-8-div-18-button {
+    border-radius: 10px;
+    background-color: black;
+    width: 180px;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.km-filter-md-container-7-text-8-div-18-button-fa {
+    margin-left: -135px;
+    margin-top: 15px;
+    color: white;
+}
+
+.km-filter-md-container-7-text-8-div-18-button-div-19 {
+    color: white;
+    margin-top: -35px;
+    margin-left: 25px;
+}
+
+.km-filter-md-container-7-text-9 {
+    padding-left: 30%;
+}
+
+.km-filter-md-container-7-text-9-text-10 {
+    margin-left: 15%;
+    width: 17%;
+}
+
+.km-filter-md-container-7-text-9-text-10-div-21{
+    color: silver;
+}
+
+.km-filter-md-container-7-text-9-text-11 {
+    margin-left: 15%;
+}
+
+.km-filter-md-container-7-text-9-text-11-div-22 {
+    color: silver;
+}
+
+.km-filter-md-container-7-text-9-text-12 {
+    margin-left: 10%;
+}
+
+.km-filter-md-container-7-text-9-text-12-div-23 {
+    color: silver;
+}
+
+.km-filter-md-container-7-text-8-div-20-a-2 {
+    color: silver;
+}
+
+.km-filter-md-buttom {
+    margin-top: 42%;
+    padding-top: 20px;
+}
+
+.km-filter-md-buttom-div-24 {
+    color: silver;
+    margin-left: 5%;
+}
+
+.km-filter-md-buttom-div-24-a-3 {
+    color: blue;
+}
+
+.km-filter-md-buttom-div-25 {
+    margin-left: 20%;
+    font-size: 10px;
+    font-weight: bolder;
+}
+
+
+
+
